@@ -1,0 +1,37 @@
+Manifest-Version: 1.0
+Main-Class: fr.pomie.working_mate.Main
+Created-By: 1.0.0.beta (Yann POMIE)
+Signature-Version: 1.0.0beta
+
+Name: fr/pomie/working_mate/exercices
+Specification-Title: WM exercices classes
+Specification-Version: 1.0.0
+Specification-Vendor: Yann POMIE
+Implementation-Title: fr.pomie.working_mate.exercices
+Implementation-Version: 1.0.0
+Implementation-Vendor: fr.pomie.working_mate.exercices
+
+Name: fr/pomie/working_mate/exercices/threads
+Specification-Title: WM threads classes
+Specification-Version: 1.0.0
+Specification-Vendor: Yann POMIE
+Implementation-Title: fr.pomie.working_mate.exercices.threads
+Implementation-Version: 1.0.0
+Implementation-Vendor: fr.pomie.working_mate.exercices.threads
+
+Name: fr/pomie/working_mate/util
+Specification-Title: WM utility classes
+Specification-Version: 1.0.0
+Specification-Vendor: Yann POMIE
+Implementation-Title: fr.pomie.working_mate.util
+Implementation-Version: 1.0.0
+Implementation-Vendor: fr.pomie.working_mate.util
+
+Name: fr/pomie/working_mate
+Specification-Title: WM main classes
+Specification-Version: 1.0.0
+Specification-Vendor: Yann POMIE
+Implementation-Title: fr.pomie.working_mate
+Implementation-Version: 1.0.0
+Implementation-Vendor: fr.pomie.working_mate
+
