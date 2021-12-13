@@ -28,16 +28,10 @@ A counter will spawn to keep track (I plan to add an option to disable it)
 
 After this, you can work until WM reminds you to start a session with a tune like this
 
-<audio controls src="src/fr/pomie/working_mate/sounds/WMTune1highintro.wav">
-    Your browser does not support the
-    <code>audio</code> element.
-</audio>
+https://youtu.be/LGQbi9aXXRk
 
 And will tell you to stop with this one
 
-<audio controls src="src/fr/pomie/working_mate/sounds/WMTune1highoutro.wav">
-    Your browser does not support the
-    <code>audio</code> element.
-</audio>
+https://youtu.be/kyTMymEwRcY
 
 You can stop WM by just closing the window ~~or by stopping via the icon on the right of your taskbar~~.
